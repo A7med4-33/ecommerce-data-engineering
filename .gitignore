@@ -1,0 +1,16 @@
+# Database credentials
+config.py
+.env
+.streamlit/secrets.toml
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
