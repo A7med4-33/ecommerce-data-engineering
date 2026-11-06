@@ -146,6 +146,24 @@ The project includes analytical queries covering:
 - Payment method statistics
 - High-value customer identification
 
+📸 Project Screenshots
+
+🐘 PostgreSQL
+
+Screenshots of the PostgreSQL database and customer management.
+
+🍃 MongoDB
+
+Screenshots of MongoDB collections and NoSQL data.
+
+⚙️ ETL Pipeline
+
+Screenshots of the ETL process and data warehouse loading.
+
+📊 Sales Dashboard
+
+Screenshots of the sales analytics dashboard and visualizations.
+
 🔮 Future Improvements
 
 - Add automated ETL tests.
